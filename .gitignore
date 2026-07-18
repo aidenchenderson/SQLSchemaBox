@@ -1,0 +1,14 @@
+# virtual environment
+.venv/
+
+# compiled
+__pycache__/
+
+# pytest runs
+.pytest_cache
+
+# package metadata
+*.egg-info
+
+# ide
+.vscode/
